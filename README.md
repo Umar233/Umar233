@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umar233
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me md.farooque.cs23@iilmcet.ac.in
 
